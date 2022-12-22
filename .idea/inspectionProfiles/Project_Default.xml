@@ -1,0 +1,45 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="cv2.imread" />
+          <option value="cv2.imshow" />
+          <option value="cv2.waitKey" />
+          <option value="cv2.destoyAllWindows" />
+          <option value="cv2.destroyAllWindows" />
+          <option value="cv2.imwrite" />
+          <option value="cv2.line" />
+          <option value="cv2.rectangle" />
+          <option value="cv2.circle" />
+          <option value="cv2.FONT_HERSHEY_COMPLEX" />
+          <option value="cv2.putText" />
+          <option value="cv2.LINE_AA" />
+          <option value="cv2.EVENT_LBUTTONDBCLK" />
+          <option value="cv2.namedWindow" />
+          <option value="cv2.setMouseCallBack" />
+          <option value="cv2.destryAllWindows" />
+          <option value="cv2.SetMouseCallBack" />
+          <option value="cv2.setMouseCallback" />
+          <option value="cv2.EVENT_LBUTTONDBLCLK" />
+          <option value="cv2.cvtColor" />
+          <option value="cv2.COLOR_BGR2HSV" />
+          <option value="cv2.inRange" />
+          <option value="cv2.bitwise_and" />
+          <option value="cv2.BGR2HSV" />
+          <option value="cv2.VideoCapture" />
+          <option value="cv2.threshold" />
+          <option value="cv2.THRESH_BINARY" />
+          <option value="cv2.filter2D" />
+          <option value="cv2.blur" />
+          <option value="cv2.GaussianBlur" />
+          <option value="interest.input" />
+          <option value="interest.print" />
+          <option value="interest.float" />
+          <option value="interest.int" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
